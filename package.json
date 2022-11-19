@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-miguelos",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelos1128/random-str-msg-miguelos.git"
+  },
+  "keywords": [],
+  "author": "Miguel Agel Osornio Ledesma <mguelos1128@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelos1128/random-str-msg-miguelos/issues"
+  },
+  "homepage": "https://github.com/miguelos1128/random-str-msg-miguelos#readme",
+  "bin": {
+    "random-str-msg": ".bin/global.js"
+  },
+  "preferGlobal": true
+}
